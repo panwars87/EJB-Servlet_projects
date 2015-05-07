@@ -8,6 +8,7 @@
   
   <name>UndestandingServlet Maven Webapp</name>
   <url>http://maven.apache.org</url>
+
   
   <dependencies>
     <dependency>
@@ -26,4 +27,6 @@
   <build>
     <finalName>UndestandingServlet</finalName>
   </build>
+  
+  
 </project>
